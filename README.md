@@ -30,9 +30,3 @@ MERAK; fizik, uzay, biyoloji, tarih, zihin ve teknoloji gibi alanlarda "bunu hi�
 ## Durum
 
 Aktif geliştirme aşamasında. Kaynak kod gizli tutulmaktadır.
-
----
-
-<div align="center">
-Çınar İslam tarafından geliştiriliyor
-</div>
